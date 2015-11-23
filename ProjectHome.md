@@ -1,0 +1,2 @@
+This is a series of scripts to automate and simplify the act of auditing wireless networks. It has interfaces to the aircrack-ng suite (WEP), the reaver suite(WPS), as well as support for pyrit(WPA/WPA2).
+Interfaces are written in bash and python.
